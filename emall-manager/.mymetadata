@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="emall_manager"
+  id="myeclipse.1498962537796"
+  context-root="/emall_manager"
+  j2ee-spec="5.0"
+  archive="emall_manager.war">
+  <attributes>
+    <attribute name="webrootdir" value="src/main/webapp" />
+  </attributes>
+</project-module>
+
